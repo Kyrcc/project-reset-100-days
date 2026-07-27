@@ -15,6 +15,7 @@
 | Day | 项目 | 业务方向 | 当前状态 | 证据 |
 | --- | --- | --- | --- | --- |
 | 1 | [企业微信称呼助手](projects/wecom-name-helper/README.md) | 销售流程自动化 | 📌 已展示 | 语法检查、合成 OCR 自测通过；已交付同事真实使用并确认运行准确 |
+| 2 | [销售线索自动评分器](projects/lead-scoring-assistant/README.md) | 销售线索优先级自动化 | ✅ 完成 | 30 条虚拟线索全部成功评分；结果严格降序，业务规则通过验收 |
 
 ## Day 1：企业微信称呼助手
 
@@ -22,6 +23,13 @@
 
 - [本地项目说明](projects/wecom-name-helper/README.md)
 - [Notion 项目记录](https://app.notion.com/p/3aadf5b1d9e8815d815ffe03657766b0)
+
+## Day 2：销售线索自动评分器
+
+读取销售线索 CSV，根据公司规模、职位、预算、紧迫度和互动程度计算 0–100 分，自动划分 A/B/C 等级，并输出按优先级排列的跟进名单。
+
+- [项目说明](projects/lead-scoring-assistant/README.md)
+- [Notion 项目记录](https://app.notion.com/p/3aadf5b1d9e88147baafc428d3b16446)
 
 ## 作品集质量标准
 
