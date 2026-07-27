@@ -1,0 +1,11 @@
+# Distribution archives are generated from the source files.
+projects/*.zip
+
+# Local test evidence may contain customer information.
+evidence/private/
+*.tmp
+
+# Windows-generated files.
+Thumbs.db
+Desktop.ini
+
