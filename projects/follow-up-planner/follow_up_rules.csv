@@ -1,0 +1,4 @@
+grade,follow_up_days,priority,next_action,channel
+A,0,高,当天联系并预约产品演示,电话
+B,3,中,发送案例并确认具体需求,企业微信
+C,7,低,发送培育内容并观察后续互动,企业微信
